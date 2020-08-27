@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MyRuns</string>
+    <string name="MyRuns">MyRuns</string>
+    <string name="email">E m a i l</string>
+    <string name="pw">P a s s w o r d</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="myruns">MyRuns</string>
+    <string name="error_field_required">Field Required</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="name">N a m e</string>
+    <string name="emailAddress">e m a i l @ d a r t m o u t h . e d u</string>
+    <string name="nonBinaryButtonText">Non-Binary</string>
+    <string name="femaleButtonText">Female</string>
+    <string name="maleButtonText">Male</string>
+    <string name="major">M a j o r</string>
+    <string name="password">P a s s w o r d</string>
+    <string name="phone">P h o n e #</string>
+    <string name="classyear">C l a s s Y e a r</string>
+    <string name="submit">S u m b i t</string>
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_invalid_name">Try New Name!</string>
+    <string name="error_gender">Select Gender</string>
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="error_invalid_major">Try New Major, But Avoid Art History...</string>
+    <string name="error_invalid_phone">Invalid Phone Number</string>
+    <string name="error_invalid_class">Try Being Born in this Century</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="profilephoto">profilephoto.png</string>
+
+    <string-array name="photo_options">
+        <item>Take picture from camera</item>
+        <item>Choose photo from gallery</item>
+    </string-array>
+</resources>
